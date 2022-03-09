@@ -1,0 +1,28 @@
+*{
+  color:black;
+}
+
+
+.nav-logo{
+  color:black;
+  float:left;
+  font-size: 30px;
+  font-weight: 600;
+  line-height:70px;
+  margin-top: 10px;
+  padding-left:60px;
+  line-height: 0px;
+  }
+
+  .sticky{
+      color:black;
+      z-index: 3999;
+      position:fixed !important;
+      background-color: #ffffff ;
+      width: 100% !important;
+     
+  }
+
+footer{
+  margin: 50px;
+}
