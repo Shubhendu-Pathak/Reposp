@@ -1,0 +1,16 @@
+.item img{
+    height: 250px;
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 1350px;
+    margin-left: 20px;
+}
+.item h3{
+    position: relative;
+left: 120px;
+font-size: 30px;
+}
+.item img:hover{
+    opacity: .5;
+    
+}

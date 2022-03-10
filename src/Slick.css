@@ -1,0 +1,12 @@
+.slickk-arrow{
+    color: black;
+}
+/* FOR DIRECTION CONTROLLING BUTTONS */
+.slick-prev{
+    z-index: 100;
+    left: 20px;
+}
+.slick-next{
+    z-index: 100;
+    right: 20px;
+}
