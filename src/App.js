@@ -7,6 +7,7 @@ import Login from  "./Login"
 import React, {useState} from 'react'
 import {GoogleLogin}  from "react-google-login";
 import Glogin from './Glogin'
+import Flogin from './Flogin'
 import Carousal from './Carousal'
 
 import FacebookLogin from 'react-facebook-login'
@@ -18,13 +19,15 @@ function App() {
     return (
         
         <Router>
-            {/* <Home/> */}
+            <Home/>
             {/* <Carousal/> */}
             <Slick/>
             {/* <Login/> */}
-            <div className="g-login">
+           
             {/* <Glogin style={{padding:"15px 18px"}} /> */}
-        </div>
+        
+        
+        {/* <Flogin/> */}
            
            
             

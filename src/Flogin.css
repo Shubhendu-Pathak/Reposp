@@ -1,0 +1,13 @@
+.flog{
+    position: relative;
+    left: 120px;
+    
+}
+
+@media screen and (min-width: 480px){
+    .flog{
+        position: relative;
+        left: 100px;
+        
+    }
+}

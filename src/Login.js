@@ -2,6 +2,8 @@ import React,{useState} from "react";
 import "./Login.css";
 import {GoogleLogin,GoogleLogout}  from "react-google-login";
 import Glogin from './Glogin' 
+import Flogin from "./Flogin";
+import { FacebookLogin } from "react-facebook-login";
 
 export default function Login() {
   return (
@@ -35,8 +37,9 @@ export default function Login() {
      <div className="f">
      <div className="fb">
      
-     <img className="facebook" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZvD-aN-CiE92JWJW76AnCGSj_-A8qW0ySOw&usqp=CAU" alt="" />
-       <h3 className="fbtext">Continue with facebook</h3>
+     {/* <img className="facebook" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZvD-aN-CiE92JWJW76AnCGSj_-A8qW0ySOw&usqp=CAU" alt="" />
+       <h3 className="fbtext">Continue with facebook</h3> */}
+       <Flogin/>
      </div>
      </div>
      <div className="g">

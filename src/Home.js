@@ -29,7 +29,7 @@ export default class Home extends Component {
             </li>
             <li class="list-inline-item">
               <p>
-          <i class="fab  fa-2x fa-twitter mr-3"></i><a href="https://www.instagram.com/chippiparai/">Twitter</a></p>
+          <i class="fab  fa-2x fa-instagram mr-3"></i><a href="https://www.instagram.com/chippiparai/">Instagram</a></p>
         
             </li>
             <li class="list-inline-item">
@@ -43,8 +43,8 @@ export default class Home extends Component {
 
             </li>
             <li class="list-inline-item">
-              <p>
-          <i class="fa fa-2x fa-phone mr-3"></i>7711077737 (or) 7711077767</p>
+              <p >
+          <i class="fa fa-2x fa-phone mr-3 "></i>7711077737 (or) 7711077767</p>
 
             </li>
           </ul>

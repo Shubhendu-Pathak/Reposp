@@ -15,7 +15,7 @@ setshowLoginButton(false)
     }
     return(
         
- <div className='try'>
+ <div className='g-login'>
          {showLoginButton==true ?
            <GoogleLogin
     clientId={clientId}
