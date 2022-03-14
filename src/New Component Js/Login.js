@@ -1,5 +1,6 @@
 import React,{useState} from "react";
-import "./Login.css";
+import './New Compo CSS/Login.css'
+
 import {GoogleLogin,GoogleLogout}  from "react-google-login";
 import Glogin from './Glogin' 
 import Flogin from "./Flogin";

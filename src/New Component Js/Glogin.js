@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import GoogleLogin from 'react-google-login'
-import './Glogin.css'
+import './New Compo CSS/Glogin.css'
 
 export default function Glogin(){
     const clientId='406397604612-u2dgl4t78n9lb0r1uqdtt1dupd69ifeu.apps.googleusercontent.com'

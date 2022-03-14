@@ -1,8 +1,8 @@
 import React,{Component} from 'react';
 import { Link } from 'react-router-dom';
-import i1 from "./image-main.jpeg";
-import i2 from "./logo.jpeg";
-import "./Home.css";
+import i1 from "../image-main.jpeg";
+import i2 from "../logo.jpeg";
+import ".//Home.css";
 
 
 export default class Home extends Component {

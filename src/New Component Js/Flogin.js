@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import FacebookLogin from 'react-facebook-login';
-import './Flogin.css'
+import './New Component Js/Flogin.css'
 
 const responseFacebook = (response) => {
   console.log('loginresult',response);
