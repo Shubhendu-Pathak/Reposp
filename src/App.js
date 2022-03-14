@@ -13,7 +13,7 @@ import Flogin from '../New Component Js/Flogin'
 import FacebookLogin from 'react-facebook-login'
 
 import Slick from '../New Component Js/Slick';
-
+import Contact from './New Component Js/Contact'
 
 <Link to='/posts'>Posts</Link>;
 
@@ -22,8 +22,8 @@ function App() {
         
         <Router>
             {/* <Home/> */}
-            
-            {/* <Carousal/> */}
+            {/* <Contact/> */}
+           
             {/* <Slick/> */}
             {/* <Login/> */}
            
