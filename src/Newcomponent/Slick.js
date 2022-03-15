@@ -2,7 +2,7 @@ import React, {Component} from 'react'
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
-import '../New Compo CSS/Slick.css'
+import '../Newcss/Slick.css'
 
 
 

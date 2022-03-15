@@ -2,18 +2,18 @@
 import {BrowserRouter as Router, Link, Route, Routes} from "react-router-dom";
 import "./App.css";
 // import "bootstrap/dist/css/bootstrap.min.css";
-import Home from "../New Component Js/Home";
-import Login from  "../New Component Js/Login"
+import Home from "../src/Newcomponent/Home";
+import Login from  "../src/Newcomponent/Login";
 import React, {useState} from 'react'
 import {GoogleLogin}  from "react-google-login";
-import Glogin from '../New Component Js/Glogin'
-import Flogin from '../New Component Js/Flogin'
+import Glogin from '../src/Newcomponent/Glogin';
+import Flogin from '../src/Newcomponent/Flogin';
 
 // import Contact from "../New Component Js/Contact";
 import FacebookLogin from 'react-facebook-login'
 
-import Slick from '../New Component Js/Slick';
-import Contact from './New Component Js/Contact'
+import Slick from '../src/Newcomponent/Slick';
+import Contact from '../src/Newcomponent/Contact'
 
 <Link to='/posts'>Posts</Link>;
 
@@ -21,7 +21,7 @@ function App() {
     return (
         
         <Router>
-            {/* <Home/> */}
+            <Home/>
             {/* <Contact/> */}
            
             {/* <Slick/> */}
