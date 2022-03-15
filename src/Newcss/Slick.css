@@ -2,14 +2,34 @@
     color: black;
 }
 /* FOR DIRECTION CONTROLLING BUTTONS */
+
 .slick-prev{
+    background-color: blue;
+    color: chartreuse;
+}
+.slick-prev{
+height: 50px;
+width: 50px;
+border-radius: 25px;
     z-index: 100;
     left: 20px;
-    color: chocolate;
+    background-color:black;
+    color:black
+}
+.slick-prev:hover{
+    background-color: cornflowerblue;
 }
 .slick-next{
+    height: 50px;
+width: 50px;
+border-radius: 25px;
     z-index: 100;
     right: 20px;
+    background-color:black;
+    color:black
+}
+.slick-next:hover{
+    background-color: cornflowerblue;
 }
 .item img{
     height: 250px;

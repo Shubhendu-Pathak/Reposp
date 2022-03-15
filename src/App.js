@@ -21,10 +21,10 @@ function App() {
     return (
         
         <Router>
-            <Home/>
+            {/* <Home/> */}
             {/* <Contact/> */}
            
-            {/* <Slick/> */}
+            <Slick/>
             {/* <Login/> */}
            
             {/* <Glogin style={{padding:"15px 18px"}} /> */}
