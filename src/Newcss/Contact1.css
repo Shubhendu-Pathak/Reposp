@@ -1,0 +1,220 @@
+.container{
+    position: relative;
+    /* right: 50px; */
+}
+.head{
+    margin-top: 150px;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(173, 194, 224);
+}
+.head h1{
+    text-align: center;
+    position: relative;
+    top: 8px;
+    
+}
+.dummy-text{
+    line-height: 40px;
+    margin-top: 50px;
+    margin-right: 500px;
+    font-size: 20px;
+    color: grey;
+}
+.image{
+    position: relative;
+    left: 650px;
+    top: 200px;
+    height: 400px;
+    width: 550px;
+}
+.ask{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-bottom:1px solid indianred;
+    
+}
+.accordion{
+    height: 450px;
+}
+ul li{
+    margin-bottom: 50px;
+}
+.bottom{
+    width: 600px;
+    position: relative;
+    right: 20px;
+    height: 700px;
+    border-left: lightslategray;
+}
+.top-bar{
+    height: 43px;
+    font-size: 35px;
+    text-align: center;
+    color: silver;
+    background-color: rgb(145, 48, 190);
+    width: 600px;
+  
+}
+.content{
+    position: relative;
+    top: 60px;
+    left: 30px;
+
+}
+.nl{
+    font-size: 25px;
+    color: grey;
+}
+.nt{
+    width: 390px;
+    border-radius: 15px;
+    background-color: lightblue;
+    border: none;
+    outline: none;
+    padding: 0 50px;
+    color: lightcoral;
+    margin-left: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sl{
+    font-size: 25px;
+    color: grey;
+    padding-top: 20px;
+}
+.st{
+    width: 390px;
+    border-radius: 15px;
+    background-color: lightblue;
+    border: none;
+    outline: none;
+    padding: 0 50px;
+    color: lightcoral;
+    margin-left: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.el{
+    font-size: 25px;
+    color: grey;
+    padding-top: 20px;
+    position: relative;
+    bottom: 530px;
+    right: 130px;
+}
+.et{
+    width: 390px;
+    border-radius: 15px;
+    background-color: lightblue;
+    border: none;
+    outline: none;
+    padding: 0 50px;
+    color: lightcoral;
+    margin-left: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pl{
+    font-size: 25px;
+    color: grey;
+    padding-top: 20px;
+    position: relative;
+    right: 50px;
+}
+.pt{
+    width: 390px;
+    border-radius: 15px;
+    background-color: lightblue;
+    border: none;
+    outline: none;
+    padding: 0 50px;
+    color: lightcoral;
+   position: relative;
+   bottom: 40px;
+   left: 140px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ml{
+    font-size: 25px;
+    color: grey;
+    padding-top: 20px;
+}
+.mt{
+    width: 390px;
+    height: 250px;
+    border-radius: 15px;
+    background-color: lightblue;
+    border: none;
+    outline: none;
+    padding: 5px 5px;
+    color: lightcoral;
+    margin-left: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn{
+    position: relative;
+    top: 50px;
+    left: 160px;
+    padding: 20px 40px;
+}
+  .contactus{
+     position: relative;
+     bottom: 600px;
+     left: 600px;
+     width: 600px;
+     height:650px ;
+     background-image: url('https://media.istockphoto.com/vectors/modern-gradient-background-portrait-size-vector-id1022975276?k=20&m=1022975276&s=170667a&w=0&h=-DmH-6wuFm_HfJB87DX1pqlw_1g6UUMbcxY9fzYf1pk=');
+     background-size: cover;
+     background-repeat: no-repeat;
+  }
+  .contactus h2{
+     position: relative;
+     top: 70px;
+     left: 50px;
+     margin-bottom: 50px;
+font-size: 30px;
+border-bottom:1px solid pink;
+
+  }
+  .lastcontent{
+      position: relative;
+      top: 130px;
+      left: 60px;
+  }
+  .txt{
+      color: white;
+      position: relative;
+      top: 60px;
+      left: 50px;
+     
+  }
+  .address{
+      margin-bottom: 20px;
+  }
+  .address h3{
+      text-align: center;
+      font-size: 15px;
+      margin:0  60px 0 8px;
+      color: silver;
+  }
+  .phone1{
+      margin-top: 40px;
+  }
+  .phone1 img{
+      position: relative;
+      right: 1px;
+  }
+  .phone1 h3{
+      position: relative;
+      left: 20px;
+      color: silver;
+  }
+  .email2{
+      margin-top: 35px;
+  }
+  .email2 h3{
+      position: relative;
+      left: 20px;
+      color: silver;
+  }
